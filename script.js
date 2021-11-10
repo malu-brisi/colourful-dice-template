@@ -21,7 +21,7 @@ function rollDice20() {
 }
 
 // Use this template to create an N sided die
-// NOTICE: uncomment before use.
+// NOTICE: uncomment and replace N with an integer before use.
 
 // var displayN = document.getElementById("displayN");
 // var randomizerN  = document.getElementById("randomizerN")
