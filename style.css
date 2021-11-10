@@ -68,3 +68,31 @@ h2{
   /* background-image: url(https://31.media.tumblr.com/61c4afefb7f0dd66857b08d9f61fc3df/tumblr_mt64qmNFD51r6q80fo1_500.gif); */
     background-image: url(https://thumbs.gfycat.com/DampDenseGallinule-max-1mb.gif);
 }
+
+/* Use this template to stylize your N sided die.
+NOTICE: uncomment and replace N before running.
+
+#displayN{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 80px;
+  color: lavender;
+  background-color: LightGreen;
+  padding:70px 80px;
+  width: 85px;
+  text-align: center;
+  border-radius: 100%;
+    border: solid 5px Azure;
+
+
+}
+#randomizerN{
+  border: none;
+  color: black;
+  background-color: lightslategrey;
+  height: 50px;
+  width: 100px;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+*/
